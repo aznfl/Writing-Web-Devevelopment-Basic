@@ -113,6 +113,7 @@ ___
 > `git config` -> untuk melakukan inisialisasi pada git dan untuk melakukan konfigurasi git dengan memberikan nama email yang akan digunakan baik pada local project maupun global project
 >
 > `git init namafolder` -> digunakan untuk membuat sebuah repository
+>
 > `git init .` -> bisa digunakan jika folder sudah ada
 >
 > `git status` -> untuk melihat status dari sebuah repository
@@ -196,7 +197,7 @@ ___
 >
 > **1. Heading**
 > -  Tag heading hanya memiliki 6 tingkatan. Penulisannya seperti di bawah ini : 
-> ```
+> ```json
 >    <h1>Heading Satu</h1>
 >    <h2>Heading Dua</h2>
 >    <h3>Heading Tiga</h3>
