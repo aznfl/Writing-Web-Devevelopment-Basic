@@ -463,6 +463,7 @@ ___
 >        }
 >```
 
+> ### **Looping**
 > >**LOOP** adalah sekumpulan kode yang akan dijalankan berulang kali sampai batas yang ditentukan
 > - Ada 5 jenis loop di JavaScript, yaitu:
 > ```		
