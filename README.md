@@ -515,4 +515,4 @@ ___
 > ## NOTE :
 > - Fungsi HTML adalah sebagai 'kerangka', yang memberi struktur pada website.
 > - Fungsi CSS sebagai 'baju', yang memberi warna dan layout pada website.
-> - Fungsi JavaScript sebagai 'element', yang membuat website menjadi interaktif.
+> - Fungsi JavaScript sebagai 'element', yang membuat website menjadi interaktif.# Web-Development-Basic
