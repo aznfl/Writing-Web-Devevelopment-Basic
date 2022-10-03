@@ -32,9 +32,11 @@ ___
 > **Function** adalah sebuah blok kode dalam sebuah grup untuk menyelesaikan 1 task/1 fitur. Ketika membutuhkan fitur tersebut nantinya, maka fitur tersebut bisa digunakan kembali.
 
 - **Membuat Function**
+
 ![Membuat Function](img/createfunction.png)
 
 - **Memanggil Function**
+
 ![Membuat Function](img/callfunction.png)
 
 ### **Parameter**
