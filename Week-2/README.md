@@ -43,18 +43,21 @@ ___
 > **Parameter** ialah syarat input yang harus dimasukkan ke dalam suatu function dan dideklarasikan bersama dengan deklarasi function.
 
 Saat membuat function/fitur, kita harus tahu data-data yang dibutuhkan. Misalnya saat membuat function penambahan 2 buah nilai. Data yang dibutuhkan adalah 2 buah nilai tersebut.
+
 ![Parameter](img/parameter.png)
 
 ### **Argument**
 > **Argument** adalah nilai yang dimasukan ke dalam suatu function, sesuai dengan persyaratan parameter, di mana argument dituliskan bersamaan dengan pemanggilan function.
 
 Jumlah argument harus sama dengan jumlah parameternya. Jadi jika di function penambahan ada 2 parameter nilai saat membuat function, maka saat memanggil function gunakan 2 buah nilai argument tersebut.
+
 ![Argument](img/argument.png)
 
 ### **Default Parameter**
 > **Default Paramater** digunakan untuk memberikan nilai awal/default pada parameter function.
 
 Ketika sebuah fungsi memiliki parameter tetapi tidak dimasukkan argument maka akan otomatis diisi oleh UNDEFINED. Untuk menghindari kesalahan tersebut, maka buatlah Default Parameternya.
+
 ![Default Parameter](img/defaultparameter.png)
 
 ### **Function Helper**
@@ -65,6 +68,7 @@ Ketika sebuah fungsi memiliki parameter tetapi tidak dimasukkan argument maka ak
 > **Arrow Function** adalah cara lain menuliskan function. Ini adalah fitur terbaru yang ada pada ES6 (Javascript Version). Biasa disebut *Short Syntax Function*.
 
 > **Penggunaan Short Syntax Function**
+>
 > ![Short Syntax Function](img/ssf1.png)
 > ![Short Syntax Function](img/ssf2.png)
 
