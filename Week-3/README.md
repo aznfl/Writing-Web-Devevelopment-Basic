@@ -4,8 +4,6 @@
 
 ## **ARRAY**
 
----
-
 > **Array** adalah tipe data list order yang dapat menyimpan tipe data apapun di dalamnya.
 
 Array dapat menyimpan tipe data String, Number, Boolean, dan lainnya.
@@ -248,7 +246,6 @@ console.log(pow(2,3)); // Output : 8
     ```
 
 ## **WEB STORAGE**
-___
 > Web storage adalah salah satu Web API yang dapat menyimpan data secara lokal pada sisi client. 
 
 Ada 3 jenis web storage :
